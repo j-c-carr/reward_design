@@ -1,6 +1,8 @@
 # Personal
 figures/*
 !figures/.gitkeep
+out/*
+!out/.gitkeep
 .idea
 
 # Created by .ignore support plugin (hsz.mobi)
